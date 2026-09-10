@@ -239,3 +239,6 @@ This repository serves as the official landing page for Might and Magic Heroes 6
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Might and Magic Heroes 6 today!**
+
+---
+**Last updated:** 2026-09-10 18:58:20 UTC
