@@ -241,4 +241,4 @@ This repository serves as the official landing page for Might and Magic Heroes 6
 **Get the most recent version of Might and Magic Heroes 6 today!**
 
 ---
-**Last updated:** 2026-10-12 02:05:24 UTC
+**Last updated:** 2026-10-12 10:18:41 UTC
